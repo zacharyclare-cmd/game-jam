@@ -1,0 +1,44 @@
+{
+    "name": "Game Jam",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.1.25",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#FFFFFF",
+        "#FF2121",
+        "#FF93C4",
+        "#EBE2DF",
+        "#FFF609",
+        "#F09081",
+        "#77F2C5",
+        "#003FAD",
+        "#87F2FF",
+        "#8E2EC4",
+        "#363535",
+        "#141414",
+        "#E5CDC4",
+        "#91463d",
+        "#5C406c"
+    ]
+}
